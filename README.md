@@ -22,3 +22,4 @@
 - Extra 3 [[Repositório]](https://github.com/MiguelStack/extras3) [[Site]](https://miguelstack.github.io/extras3/)
 - Extra 4 [[Repositório]](https://github.com/MiguelStack/extras4) [[Site]](https://miguelstack.github.io/extras4/)
 - Extra 5 [[Repositório]](https://github.com/MiguelStack/extras5) [[Site]](https://miguelstack.github.io/extras5/)
+- Extra 6 [[Repositório]](https://github.com/MiguelStack/imagemweb) [[Site]](https://miguelstack.github.io/imagemweb/)
