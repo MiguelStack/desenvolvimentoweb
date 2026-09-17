@@ -18,7 +18,7 @@
 
 ## Extras
 - Extra 1 [[Repositório]](https://github.com/MiguelStack/extras1) [[Site]](https://miguelstack.github.io/extras1/)
-- Extra 2 [[Repositório]](https://github.com/MiguelStack/extras2) [[Site]](https://miguelstack.github.io/extras2/)
+- Atividade pratica [[Repositório]](https://github.com/MiguelStack/extras6) [[Site]](https://miguelstack.github.io/extras6/)
 - Extra 3 [[Repositório]](https://github.com/MiguelStack/extras3) [[Site]](https://miguelstack.github.io/extras3/)
 - Extra 4 [[Repositório]](https://github.com/MiguelStack/extras4) [[Site]](https://miguelstack.github.io/extras4/)
 - Extra 5 [[Repositório]](https://github.com/MiguelStack/extras5) [[Site]](https://miguelstack.github.io/extras5/)
