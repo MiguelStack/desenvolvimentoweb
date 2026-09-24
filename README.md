@@ -16,6 +16,16 @@
 - Atividade 13 [[Repositório]](https://github.com/MiguelStack/atividade13) [[Site]](https://miguelstack.github.io/atividade13/)
 - Atividade 14 [[Repositório]](https://github.com/MiguelStack/atividade14) [[Site]](https://miguelstack.github.io/atividade14/)
 
+## Projetos
+- Projeto 1 [[Repositório]](https://github.com/MiguelStack/projeto1) [[Site]](https://miguelstack.github.io/projeto1/)
+- Projeto 2 [[Repositório]](https://github.com/MiguelStack/projeto2) [[Site]](https://miguelstack.github.io/projeto2/)
+- Projeto 3 [[Repositório]](https://github.com/MiguelStack/projeto3) [[Site]](https://miguelstack.github.io/projeto3/)
+- Projeto 4 [[Repositório]](https://github.com/MiguelStack/projeto4) [[Site]](https://miguelstack.github.io/projeto4/)
+- Projeto 5 [[Repositório]](https://github.com/MiguelStack/projeto5) [[Site]](https://miguelstack.github.io/projeto5/)
+- Projeto 6 [[Repositório]](https://github.com/MiguelStack/projeto6) [[Site]](https://miguelstack.github.io/projeto6/)
+- Projeto 7 [[Repositório]](https://github.com/MiguelStack/projeto7) [[Site]](https://miguelstack.github.io/projeto7/)
+
+
 ## Extras
 - Extra 1 [[Repositório]](https://github.com/MiguelStack/extras1) [[Site]](https://miguelstack.github.io/extras1/)
 - Atividade pratica [[Repositório]](https://github.com/MiguelStack/extras6) [[Site]](https://miguelstack.github.io/extras6/)
